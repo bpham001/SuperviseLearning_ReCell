@@ -1,3 +1,13 @@
+Analyze the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
+
+***---Skills & Tools Covered---***
+- EDA
+- Linear Regression
+- Linear Regression assumptions
+- Business insights and recommendations
+
+=======================================================================================
+
 ***---Business Context---***
 
 Buying and selling used phones and tablets used to be something that happened on a handful of online marketplace sites. But the used and refurbished device market has grown considerably over the past decade, and a new IDC (International Data Corporation) forecast predicts that the used phone market would be worth $52.7b by 2023 with a compound annual growth rate (CAGR) of 13.6% from 2018 to 2023. This growth can be attributed to an uptick in demand for used phones and tablets that offer considerable savings compared with new models.
